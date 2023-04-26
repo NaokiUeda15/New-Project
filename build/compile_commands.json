@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/naoki/cmakeQuickStart/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/CMakeLists.txt.dir/main.cpp.o -c /home/naoki/cmakeQuickStart/main.cpp",
+  "file": "/home/naoki/cmakeQuickStart/main.cpp"
+}
+]
